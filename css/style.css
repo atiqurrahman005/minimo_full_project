@@ -87,6 +87,7 @@ body{
 }
 .single{
 	width: 47%;
+	margin-bottom: 30px;
 	float: left;
 }
 .single img{
